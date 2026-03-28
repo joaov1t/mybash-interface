@@ -33,7 +33,7 @@ chsh -s $(which zsh)
 
 Terminal customizado com ZSHRC:
 
-**
+*<img width="1118" height="630" alt="image" src="https://github.com/user-attachments/assets/dcaad8bc-0a98-47d8-9a25-dfc3c3fae0d9" />*
 
 ---
 
