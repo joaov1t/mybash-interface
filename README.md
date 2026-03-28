@@ -9,7 +9,7 @@ Eu fiz inicialmente para uso próprio, mas resolvi deixar público para demonstr
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/joaov1t/mybash-interface && cd MyBash-Zshrc
+git clone https://github.com/joaov1t/mybash-interface && cd mybash-interface
 cd mybash-interface
 cp -r zshrc.sh ~/.zshrc
 chsh -s $(which zsh)
