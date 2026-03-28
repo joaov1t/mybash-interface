@@ -53,7 +53,7 @@ get_ip() {
 
 # ========== EMOJIS PERSONALIZADOS ==========
 local user_emoji="👤"      # Emoji para usuário normal
-local root_emoji="☢"      # Emoji para root
+local root_emoji="☢ "      # Emoji para root
 local dir_emoji="📁"       # Emoji de diretório
 local ip_emoji="📡"        # Emoji para IP
 
