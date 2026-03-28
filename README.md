@@ -10,9 +10,12 @@ Eu fiz inicialmente para uso próprio, mas resolvi deixar público para demonstr
 
 ```bash
 git clone https://github.com/joaov1t/mybash-interface && cd mybash-interface
+```
 
+```bash
 cp -r mybash-interface.sh ~/.zshrc
-
+```
+```bash
 chsh -s $(which zsh)
 ```
 
