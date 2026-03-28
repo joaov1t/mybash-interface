@@ -58,7 +58,7 @@ local dir_emoji="📁"       # Emoji de diretório
 local ip_emoji="📡"        # Emoji para IP
 
 # ========== PROMPT DINÂMICO ==========
-PROMPT=$'%F{purple}┌──[%F{red}%(#.${root_emoji}.${user_emoji}) (%n)%F{white}${$(get_ip):+-(${ip_emoji} %B$(get_ip)%b)}%F{purple}]\n%F{purple}├─[%F{yellow}${dir_emoji} %B(%~)%b%F{purple}]\n%F{purple}└─%B%(#.%F{red}#.%F{white}$)%b%f '
+PROMPT=$'%F{magenta}┌──[%F{red}%(#.${root_emoji}.${user_emoji}) (%n)%F{white}${$(get_ip):+-(${ip_emoji} %B$(get_ip)%b)}%F{magenta}]\n%F{magenta}├─[%F{yellow}${dir_emoji} %B(%~)%b%F{magenta}]\n%F{magenta}└─%B%(#.%F{red}#.%F{white}$)%b%f '
 RPROMPT=''
 ZLE_RPROMPT_INDENT=0
 
