@@ -13,7 +13,7 @@ git clone https://github.com/joaov1t/mybash-interface && cd mybash-interface
 ```
 
 ```bash
-cp -r mybash-interface.sh ~/.zshrc
+ sudo cp -r mybash-interface.sh ~/.zshrc && cp -r mybash-interface.sh ~/.zshrc
 ```
 ```bash
 chsh -s $(which zsh)
