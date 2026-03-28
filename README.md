@@ -11,7 +11,7 @@ Eu fiz inicialmente para uso próprio, mas resolvi deixar público para demonstr
 ```bash
 git clone https://github.com/joaov1t/mybash-interface && cd mybash-interface
 
-cp -r zshrc.sh ~/.zshrc
+cp -r mybash-interface.sh ~/.zshrc
 
 chsh -s $(which zsh)
 ```
